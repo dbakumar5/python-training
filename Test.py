@@ -9,3 +9,6 @@ if hours >= 0:
        print("Enter value above 24")
 else:
     print("please provide value greater than 0")
+def cal_min():
+   min= hours*60
+   cal_min()
